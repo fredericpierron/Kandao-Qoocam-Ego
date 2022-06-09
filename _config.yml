@@ -1,0 +1,4 @@
+domain: fredericpierron.github.io
+url: https://fredericpierron.github.io/Kandao-Qoocam-Ego
+theme: jekyll-theme-hacker
+permalink: /:categories/:year/:month/:day/:title:output_ext
