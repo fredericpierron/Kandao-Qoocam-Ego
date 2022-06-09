@@ -5,6 +5,12 @@ layout: default
 
 
 
+- [Groupe Facebook](https://www.facebook.com/groups/kandaoqoocamego)
+- [Site web officiel de Kandao](https://www.kandaovr.com/)
+- [Page dédiée au produit](https://www.kandaovr.com/qoocam-ego/)
+
+
+
 ## In the blog
 
 <ul>
